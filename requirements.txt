@@ -8,7 +8,7 @@ appdirs==1.4.4
 argh==0.26.2
 
 
-astroid @ file:///C:/ci/astroid_1613501047216/work
+
 astropy @ file:///C:/ci/astropy_1617745647203/work
 async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
 atomicwrites==1.4.0
