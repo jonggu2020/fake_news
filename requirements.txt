@@ -1,5 +1,5 @@
 
-anaconda-client==1.7.2
+anaconda-client== 1.2.2
 anaconda-navigator==2.0.3
 
 annotated-types==0.7.0
