@@ -9,7 +9,6 @@ argh==0.26.2
 
 
 
-astropy @ file:///C:/ci/astropy_1617745647203/work
 async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
 atomicwrites==1.4.0
 attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
