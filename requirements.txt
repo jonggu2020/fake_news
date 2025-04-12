@@ -94,7 +94,7 @@ imageio-ffmpeg==0.5.1
 
 importlib-resources==6.4.5
 
-ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
+
 
 jdcal==1.4.1
 
@@ -159,7 +159,7 @@ proglog==0.1.10
 proto-plus==1.26.1
 protobuf==4.25.6
 
-ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+
 
 pyasn1==0.6.1
 pyasn1-modules==0.4.2
